@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002569804569",
+    "project_id": "fir-baglanti-47cd1",
+    "storage_bucket": "fir-baglanti-47cd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002569804569:android:a20b0a7a7bc6d29c4c3388",
+        "android_client_info": {
+          "package_name": "com.example.firebaseprojebaglantisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002569804569-gp57rutbt0qhltchn64s0ale2j0cpac1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrXBM396YCRmxt7ppyUv8Ltjp5as0MoL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002569804569-gp57rutbt0qhltchn64s0ale2j0cpac1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
