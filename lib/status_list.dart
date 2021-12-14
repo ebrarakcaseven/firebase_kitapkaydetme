@@ -1,3 +1,5 @@
+import 'dart:ui';
+
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebaseprojebaglantisi/home_page.dart';
@@ -63,7 +65,8 @@ class _StatusListPageState extends State<StatusListPage> {
                             padding: const EdgeInsets.all(8.0),
                             child: Column(
                               children: [
-                                Text("${mypost['name']}"),
+                                Text("${mypost['name']}",
+                                    style: TextStyle(fontSize: 25)),
                               ],
                             ),
                           ),
